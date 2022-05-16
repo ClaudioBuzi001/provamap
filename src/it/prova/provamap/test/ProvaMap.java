@@ -1,4 +1,4 @@
-package provamap;
+package it.prova.provamap.test;
 
 import java.util.HashMap;
 import java.util.Map;
